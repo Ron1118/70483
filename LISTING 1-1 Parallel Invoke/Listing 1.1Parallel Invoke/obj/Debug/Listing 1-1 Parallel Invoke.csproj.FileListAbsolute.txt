@@ -1,0 +1,7 @@
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\bin\Debug\Listing 1.1Parallel Invoke.exe.config
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\bin\Debug\Listing 1.1Parallel Invoke.exe
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\bin\Debug\Listing 1.1Parallel Invoke.pdb
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\obj\Debug\Listing 1-1 Parallel Invoke.csprojAssemblyReference.cache
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\obj\Debug\Listing 1-1 Parallel Invoke.csproj.CoreCompileInputs.cache
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\obj\Debug\Listing 1.1Parallel Invoke.exe
+C:\Users\ronzh\Source\Repos\70483\LISTING 1-1 Parallel Invoke\Listing 1.1Parallel Invoke\obj\Debug\Listing 1.1Parallel Invoke.pdb
